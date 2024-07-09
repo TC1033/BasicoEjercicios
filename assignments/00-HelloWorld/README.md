@@ -1,4 +1,4 @@
-# Ejercicio - Hello World
+# Ejercicio - Secuencia de clase
 
 Este proyecto tiene la estructura básica para cualquier proyecto C++. 
 
